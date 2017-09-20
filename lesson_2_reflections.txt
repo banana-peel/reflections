@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+So I can use git with it. I see that the promt in my terminal also change to show master before
+the folder name
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Kind of gives an intermediate area between actually commiting and the work folder. Also makes it possible to commit
+more than 1 file at a time
