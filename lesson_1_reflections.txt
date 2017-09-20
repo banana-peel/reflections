@@ -1,0 +1,26 @@
+Finding changes in code is really difficult for big files
+Diff old new was a great way to see how everything changes on changing code
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Currently I'm having problems where I've at least 20 different codes and don't know which one to use. Having version
+control will be very helpful
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having
+versions automatically saved, like Google Docs does?
+Automatic commits will save codes which don't make any sense, it's better to save manually and ensure that each
+save/commit means something
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+For coding many files may be related. In such a scenario we need to update all the files at the same time. Changing
+one by one will be a really big hassle
+
+How can you use the commands git log and git diff to view the history of files?
+Git log can be used to see the description of how the files have changed and to find the particular commit that we
+want. git diff can then be used to find the changes between the commit from the previous commit
+
+How might using version control make you more confident to make changes that could break something?
+Version control makes it really easy to find mistakes. I can be more sure that the damage won't be 
+irepairable
+
+Now that you have your workspace set up, what do you want to try using Git for?
+All the projects I've been working on. Seriously this seems awesome!
