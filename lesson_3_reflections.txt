@@ -10,3 +10,6 @@ or on the local itself. Branches is an additional branch on the same repository.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Helps in branching. If some collaborator has made any changes and you want to add changes to that then you can merge
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I generally collaborate on slack. After learning this it turns out that it is 10 times harder than working with github.
