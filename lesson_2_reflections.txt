@@ -19,3 +19,9 @@ The brach helps us visulize how each commit is related to the previous and how w
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Basically combines both the branches. We write it the way we do because it combines 2 different commits to form one commit
 which will act as main
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: Faster and less hassle
+	  Predictable behaviour
+Cons: Not Flexible to make changes according to situation
+	  Needs team colaboration
