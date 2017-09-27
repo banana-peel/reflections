@@ -13,3 +13,7 @@ Helps in branching. If some collaborator has made any changes and you want to ad
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I generally collaborate on slack. After learning this it turns out that it is 10 times harder than working with github.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When collaborating with others. This allows them to view my changes and ensure that my changes don't clash with theirs. If
+I'm working alone however, merging directly with master is a better idea.
